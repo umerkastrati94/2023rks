@@ -1,0 +1,629 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="topchannel.al" tvg-name="|ALB| TOP CHANNEL HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TOPCHANNELHD.png" group-title="ALB| GENERAL", |ALB| TOP CHANNEL HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3634
+#EXTINF: -1 tvg-id="topchannel.al" tvg-name="|ALB| TOP CHANNEL 4K" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TOPCHANNELHD.png" group-title="ALB| GENERAL", |ALB| TOP CHANNEL 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3633
+#EXTINF: -1 tvg-id="klantv.al" tvg-name="|ALB| KLAN TV HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KLANTVHD.png" group-title="ALB| GENERAL", |ALB| KLAN TV HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3632
+#EXTINF: -1 tvg-id="klantv.al" tvg-name="|ALB| KLAN 4K" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KLANTVHD.png" group-title="ALB| GENERAL", |ALB| KLAN 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3631
+#EXTINF: -1 tvg-name="|ALB| KLAN PLUS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KLANPLUS.png" group-title="ALB| GENERAL", |ALB| KLAN PLUS 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3630
+#EXTINF: -1 tvg-name="|ALB| KLAN PLUS HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KLANPLUS.png" group-title="ALB| GENERAL", |ALB| KLAN PLUS HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3629
+#EXTINF: -1 tvg-id="klankosova.al" tvg-name="|ALB| KLAN KOSOVA HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KLANKOSOVA.png" group-title="ALB| GENERAL", |ALB| KLAN KOSOVA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3626
+#EXTINF: -1 tvg-name="|ALB| KLAN MACEDONIA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KLANMACEDONIA.png" group-title="ALB| GENERAL", |ALB| KLAN MACEDONIA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3625
+#EXTINF: -1 tvg-name="|ALB| POP BIG BROTHER PRIME" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| GENERAL", |ALB| POP BIG BROTHER PRIME
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/491252
+#EXTINF: -1 tvg-name="|ALB| BIG BROTHER VIP ALBANIA 1" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/BIGBROTHERVIPALBANIA.png" group-title="ALB| GENERAL", |ALB| BIG BROTHER VIP ALBANIA 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/494864
+#EXTINF: -1 tvg-name="|ALB| BIG BROTHER VIP ALBANIA 2" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/BIGBROTHERVIPALBANIA.png" group-title="ALB| GENERAL", |ALB| BIG BROTHER VIP ALBANIA 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/494863
+#EXTINF: -1 tvg-name="|ALB| BIG BROTHER KOSOVA 1 VIP" tvg-logo="http://103.161.34.240:81/logos/MALTA/BIGBROTHERKOSOVA.png" group-title="ALB| GENERAL", |ALB| BIG BROTHER KOSOVA 1 VIP
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/491027
+#EXTINF: -1 tvg-name="|ALB| BIG BROTHER KOSOVA 2 VIP" tvg-logo="http://103.161.34.240:81/logos/MALTA/BIGBROTHERKOSOVA.png" group-title="ALB| GENERAL", |ALB| BIG BROTHER KOSOVA 2 VIP
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/491026
+#EXTINF: -1 tvg-id="alsatm.al" tvg-name="|ALB| ALSAT M HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ALSATMHD.png" group-title="ALB| GENERAL", |ALB| ALSAT M HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3624
+#EXTINF: -1 tvg-id="alsatm.al" tvg-name="|ALB| ALSAT M" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ALSATMHD.png" group-title="ALB| GENERAL", |ALB| ALSAT M
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3623
+#EXTINF: -1 tvg-id="vizionplus.al" tvg-name="|ALB| VIZION PLUS HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/VIZIONPLUS.png" group-title="ALB| GENERAL", |ALB| VIZION PLUS HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3628
+#EXTINF: -1 tvg-id="vizionplus.al" tvg-name="|ALB| VIZION PLUS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/VIZIONPLUS.png" group-title="ALB| GENERAL", |ALB| VIZION PLUS 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3627
+#EXTINF: -1 tvg-name="|ALB| RTK 1" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTK1.png" group-title="ALB| GENERAL", |ALB| RTK 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3610
+#EXTINF: -1 tvg-name="|ALB| RTK 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTK1.png" group-title="ALB| GENERAL", |ALB| RTK 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3609
+#EXTINF: -1 tvg-name="|ALB| RTK 2" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTK2.png" group-title="ALB| GENERAL", |ALB| RTK 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3608
+#EXTINF: -1 tvg-name="|ALB| RTK 3" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTK3.png" group-title="ALB| GENERAL", |ALB| RTK 3
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3607
+#EXTINF: -1 tvg-name="|ALB| RTK 4" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTK4.png" group-title="ALB| GENERAL", |ALB| RTK 4
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3606
+#EXTINF: -1 tvg-id="rtv21.al" tvg-name="|ALB| RTV21" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTK21.png" group-title="ALB| GENERAL", |ALB| RTV21
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3605
+#EXTINF: -1 tvg-id="rtv21.al" tvg-name="|ALB| RTV21 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTK21.png" group-title="ALB| GENERAL", |ALB| RTV21 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3604
+#EXTINF: -1 tvg-name="|ALB| RTV21 MAQEDONIA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTV21MAQEDONIA.png" group-title="ALB| GENERAL", |ALB| RTV21 MAQEDONIA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3603
+#EXTINF: -1 tvg-name="|ALB| KTV KOHAVISION" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KTVKOHAVISION.png" group-title="ALB| GENERAL", |ALB| KTV KOHAVISION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3602
+#EXTINF: -1 tvg-name="|ALB| T7" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/T7.png" group-title="ALB| GENERAL", |ALB| T7
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3600
+#EXTINF: -1 tvg-name="|ALB| ATV HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/ATVHD.png" group-title="ALB| GENERAL", |ALB| ATV HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/133951
+#EXTINF: -1 tvg-name="|ALB| TV DUKAGJINI" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVDUKAGJINI.png" group-title="ALB| GENERAL", |ALB| TV DUKAGJINI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3601
+#EXTINF: -1 tvg-name="|ALB| KANAL 10" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KANAL10.png" group-title="ALB| GENERAL", |ALB| KANAL 10
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/72662
+#EXTINF: -1 tvg-name="|ALB| TËVË1 HD" tvg-logo="http://103.161.34.240:81/logos/MALTA/TEVE1HD.png" group-title="ALB| GENERAL", |ALB| TËVË1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/325698
+#EXTINF: -1 tvg-name="|ALB| RTSH 1" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSH1.png" group-title="ALB| GENERAL", |ALB| RTSH 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3621
+#EXTINF: -1 tvg-name="|ALB| RTSH 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSH1.png" group-title="ALB| GENERAL", |ALB| RTSH 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3620
+#EXTINF: -1 tvg-name="|ALB| RTSH 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSH2.png" group-title="ALB| GENERAL", |ALB| RTSH 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3619
+#EXTINF: -1 tvg-name="|ALB| RTSH 3" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSH3.png" group-title="ALB| GENERAL", |ALB| RTSH 3
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3618
+#EXTINF: -1 tvg-name="|ALB| RTSH MUZIKE" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSHMUZIKE.png" group-title="ALB| GENERAL", |ALB| RTSH MUZIKE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3617
+#EXTINF: -1 tvg-name="|ALB| RTSH SHQIP" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSHSHQIP.png" group-title="ALB| GENERAL", |ALB| RTSH SHQIP
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3616
+#EXTINF: -1 tvg-name="|ALB| RTSH GJIROKASTRA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSHGJIROKASTRA.png" group-title="ALB| GENERAL", |ALB| RTSH GJIROKASTRA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3615
+#EXTINF: -1 tvg-name="|ALB| RTSH 24 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSH24HD.png" group-title="ALB| GENERAL", |ALB| RTSH 24 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3614
+#EXTINF: -1 tvg-name="|ALB| RTSH PLUS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSHPLUS.png" group-title="ALB| GENERAL", |ALB| RTSH PLUS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3613
+#EXTINF: -1 tvg-name="|ALB| RTSH KUVEND" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSHKUVEND.png" group-title="ALB| GENERAL", |ALB| RTSH KUVEND
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3612
+#EXTINF: -1 tvg-name="|ALB| RTSH SPORT HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTSHSPORTHD.png" group-title="ALB| GENERAL", |ALB| RTSH SPORT HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3611
+#EXTINF: -1 tvg-name="|ALB| ALB UK" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ALBUK.png" group-title="ALB| GENERAL", |ALB| ALB UK
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/233688
+#EXTINF: -1 tvg-name="|ALB| IN TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/INTV.png" group-title="ALB| GENERAL", |ALB| IN TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3622
+#EXTINF: -1 tvg-name="|ALB| TV ERA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVERA.png" group-title="ALB| GENERAL", |ALB| TV ERA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3599
+#EXTINF: -1 tvg-name="|ALB| MRT 2" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/MRT2.png" group-title="ALB| GENERAL", |ALB| MRT 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3598
+#EXTINF: -1 tvg-name="|ALB| SHENJA TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SHENJATV.png" group-title="ALB| GENERAL", |ALB| SHENJA TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3597
+#EXTINF: -1 tvg-name="|ALB| FIRST TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FIRSTTV.png" group-title="ALB| GENERAL", |ALB| FIRST TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3596
+#EXTINF: -1 tvg-name="|ALB| RTV21 MIX" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTV21MIX.png" group-title="ALB| GENERAL", |ALB| RTV21 MIX
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3595
+#EXTINF: -1 tvg-id="rtv21plus.al" tvg-name="|ALB| RTV21 PLUS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTV21PLUS.png" group-title="ALB| GENERAL", |ALB| RTV21 PLUS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3594
+#EXTINF: -1 tvg-name="|ALB| TV KOHA HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVKOHAHD.png" group-title="ALB| GENERAL", |ALB| TV KOHA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3592
+#EXTINF: -1 tvg-name="|ALB| TV CHANNEL SHOKDER" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVCHANNELSHOKDER.png" group-title="ALB| GENERAL", |ALB| TV CHANNEL SHOKDER
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3591
+#EXTINF: -1 tvg-name="|ALB| TV MITROVICA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVMITROVICA.png" group-title="ALB| GENERAL", |ALB| TV MITROVICA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3590
+#EXTINF: -1 tvg-name="|ALB| SYRI VISION" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SYRIVISION.png" group-title="ALB| GENERAL", |ALB| SYRI VISION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3589
+#EXTINF: -1 tvg-name="|ALB| BESA TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/BESATV.png" group-title="ALB| GENERAL", |ALB| BESA TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3587
+#EXTINF: -1 tvg-name="|ALB| TV GLOBI" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVGLOBI.png" group-title="ALB| GENERAL", |ALB| TV GLOBI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3584
+#EXTINF: -1 tvg-name="|ALB| TV2 GOSTIVAR" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TV2GOSTIVAR.png" group-title="ALB| GENERAL", |ALB| TV2 GOSTIVAR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3583
+#EXTINF: -1 tvg-name="|ALB| STAR PLUS SHKODER HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/STARPLUSSHKODERHD.png" group-title="ALB| GENERAL", |ALB| STAR PLUS SHKODER HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3581
+#EXTINF: -1 tvg-name="|ALB| TV KOPLIKU HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVKOPLIKUHD.png" group-title="ALB| GENERAL", |ALB| TV KOPLIKU HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3580
+#EXTINF: -1 tvg-id="tematv.al" tvg-name="|ALB| TEMA TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TEMATV.png" group-title="ALB| GENERAL", |ALB| TEMA TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3577
+#EXTINF: -1 tvg-name="|ALB| TV LIRIA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVLIRIA.png" group-title="ALB| GENERAL", |ALB| TV LIRIA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3578
+#EXTINF: -1 tvg-name="|ALB| TV PRESHEVA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVPRESHEVA.png" group-title="ALB| GENERAL", |ALB| TV PRESHEVA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/67013
+#EXTINF: -1 tvg-name="|ALB| RTV FONTANA HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTVFONTANAHD.png" group-title="ALB| GENERAL", |ALB| RTV FONTANA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/67011
+#EXTINF: -1 tvg-name="|ALB| DASMA TV HD" tvg-logo="http://103.161.34.240:81/logos/MALTA/DasmaTVHD.png" group-title="ALB| GENERAL", |ALB| DASMA TV HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430500
+#EXTINF: -1 tvg-name="|ALB| RTV AHIRETI" tvg-logo="http://103.161.34.240:81/logos/MALTA/RTVAHIRETI.png" group-title="ALB| GENERAL", |ALB| RTV AHIRETI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/310827
+#EXTINF: -1 tvg-name="|ALB| RTSH FEMIJE" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/RTSHFEMIJE.png" group-title="ALB| KIDS", |ALB| RTSH FEMIJE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3549
+#EXTINF: -1 tvg-id="bangbang.al" tvg-name="|ALB| BANG BANG" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/BANGBANG.png" group-title="ALB| KIDS", |ALB| BANG BANG
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3560
+#EXTINF: -1 tvg-id="cufotv.al" tvg-name="|ALB| CUFO" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/CAFU.png" group-title="ALB| KIDS", |ALB| CUFO
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3559
+#EXTINF: -1 tvg-name="|ALB| BABY TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/BABYTV.png" group-title="ALB| KIDS", |ALB| BABY TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3558
+#EXTINF: -1 tvg-id="juniortv.al" tvg-name="|ALB| JUNIOR" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/JUNIOR.png" group-title="ALB| KIDS", |ALB| JUNIOR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3557
+#EXTINF: -1 tvg-name="|ALB| TRING KIDS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/TRINGKIDS.png" group-title="ALB| KIDS", |ALB| TRING KIDS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3556
+#EXTINF: -1 tvg-id="tringtring.al" tvg-name="|ALB| TRING TRING" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/TRINGTRING.png" group-title="ALB| KIDS", |ALB| TRING TRING
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3555
+#EXTINF: -1 tvg-id="tiptv.al" tvg-name="|ALB| TIP TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/TIPTV.png" group-title="ALB| KIDS", |ALB| TIP TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3554
+#EXTINF: -1 tvg-name="|ALB| SOFIA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/SOFIA.png" group-title="ALB| KIDS", |ALB| SOFIA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3553
+#EXTINF: -1 tvg-id="rtv21junior.al" tvg-name="|ALB| RTV21 JUNIOR" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/RTV21JUNIOR.png" group-title="ALB| KIDS", |ALB| RTV21 JUNIOR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3550
+#EXTINF: -1 tvg-name="|ALB| BOOMERANG" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/BOOMERANG.png" group-title="ALB| KIDS", |ALB| BOOMERANG
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3547
+#EXTINF: -1 tvg-name="|ALB| ART PRINCE KIDS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/PRINCEKIDS.png" group-title="ALB| KIDS", |ALB| ART PRINCE KIDS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3546
+#EXTINF: -1 tvg-name="|ALB| CARTOON NETWORK" tvg-logo="http://logo.ottc.pro:8080/logos/USA.KIDS/CARTOONNETWORK.png" group-title="ALB| KIDS", |ALB| CARTOON NETWORK
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3545
+#EXTINF: -1 tvg-name="|ALB| DUCK TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/DUCKTV.png" group-title="ALB| KIDS", |ALB| DUCK TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3541
+#EXTINF: -1 tvg-name="|ALB| POP KIDS BOOBA HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| KIDS", |ALB| POP KIDS BOOBA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294709
+#EXTINF: -1 tvg-name="|ALB| POP KIDS GRIZZY HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| KIDS", |ALB| POP KIDS GRIZZY HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294707
+#EXTINF: -1 tvg-name="|ALB| POP KIDS ODDBODS HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| KIDS", |ALB| POP KIDS ODDBODS HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294706
+#EXTINF: -1 tvg-name="|ALB| POP KIDS RABBIDS HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| KIDS", |ALB| POP KIDS RABBIDS HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294708
+#EXTINF: -1 tvg-name="|ALB| POP KIDS SHAUN THE SHEEP HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| KIDS", |ALB| POP KIDS SHAUN THE SHEEP HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294711
+#EXTINF: -1 tvg-name="|ALB| POP KIDS ZIG AND SHARKO HD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| KIDS", |ALB| POP KIDS ZIG AND SHARKO HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294710
+#EXTINF: -1 tvg-name="|ALB| ABC NEWS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ABCNEWS.png" group-title="ALB| NEWS", |ALB| ABC NEWS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3574
+#EXTINF: -1 tvg-name="|ALB| TOP NEWS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TOPNEWS.png" group-title="ALB| NEWS", |ALB| TOP NEWS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3575
+#EXTINF: -1 tvg-name="|ALB| ORA NEWS HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ORANEWS.png" group-title="ALB| NEWS", |ALB| ORA NEWS HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3573
+#EXTINF: -1 tvg-name="|ALB| NEWS 24" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/NEWS24.png" group-title="ALB| NEWS", |ALB| NEWS 24
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3572
+#EXTINF: -1 tvg-name="|ALB| FOX NEWS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FOXNEWS.png" group-title="ALB| NEWS", |ALB| FOX NEWS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3571
+#EXTINF: -1 tvg-name="|ALB| REPORT TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/REPORTTV.png" group-title="ALB| NEWS", |ALB| REPORT TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3570
+#EXTINF: -1 tvg-name="|ALB| KANALI 7" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KANALI7.png" group-title="ALB| NEWS", |ALB| KANALI 7
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3568
+#EXTINF: -1 tvg-name="|ALB| EURONEWS ALBANIA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/EURONEWSALBANIA.png" group-title="ALB| NEWS", |ALB| EURONEWS ALBANIA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3564
+#EXTINF: -1 tvg-name="|ALB| SCAN TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SCANTV.png" group-title="ALB| NEWS", |ALB| SCAN TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3563
+#EXTINF: -1 tvg-name="|ALB| SYRI TELEVISION" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/SYRITELEVISION.png" group-title="ALB| NEWS", |ALB| SYRI TELEVISION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/412800
+#EXTINF: -1 tvg-name="|ALB| A2 CNN" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A2CNN.png" group-title="ALB| NEWS", |ALB| A2 CNN
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/412509
+#EXTINF: -1 tvg-name="|ALB| SYRI VISION TV FHD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/SYRIVISIONTV.png" group-title="ALB| NEWS", |ALB| SYRI VISION TV FHD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/414792
+#EXTINF: -1 tvg-name="|ALB| ROZAFA" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/ROZAFA.png" group-title="ALB| NEWS", |ALB| ROZAFA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/417683
+#EXTINF: -1 tvg-name="|ALB| TRING NOVELAS HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/TRINGNOVELASHD.png" group-title="ALB| CINEMA", |ALB| TRING NOVELAS HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/437143
+#EXTINF: -1 tvg-id="filmnje.al" tvg-name="|ALB| FILM GOLD HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMNJEHD.png" group-title="ALB| CINEMA", |ALB| FILM GOLD HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3533
+#EXTINF: -1 tvg-id="filmdy.al" tvg-name="|ALB| FILM MAX HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMDYHD.png" group-title="ALB| CINEMA", |ALB| FILM MAX HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3532
+#EXTINF: -1 tvg-id="filmaksion.al" tvg-name="|ALB| FILM AKSION" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMAKSION.png" group-title="ALB| CINEMA", |ALB| FILM AKSION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3531
+#EXTINF: -1 tvg-name="|ALB| FILM HITS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMHITS.png" group-title="ALB| CINEMA", |ALB| FILM HITS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3530
+#EXTINF: -1 tvg-name="|ALB| FILM AUTOR" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMAUTOR.png" group-title="ALB| CINEMA", |ALB| FILM AUTOR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3529
+#EXTINF: -1 tvg-id="filmdrame.al" tvg-name="|ALB| FILM DRAMA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMDRAMA.png" group-title="ALB| CINEMA", |ALB| FILM DRAMA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3528
+#EXTINF: -1 tvg-name="|ALB| FILM KOMEDI" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMKOMEDI.png" group-title="ALB| CINEMA", |ALB| FILM KOMEDI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3527
+#EXTINF: -1 tvg-id="filmthriller.al" tvg-name="|ALB| FILM THRILLER" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMTHRILLER.png" group-title="ALB| CINEMA", |ALB| FILM THRILLER
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3526
+#EXTINF: -1 tvg-name="|ALB| FILM FAMILY HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMFAMILYHD.png" group-title="ALB| CINEMA", |ALB| FILM FAMILY HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3525
+#EXTINF: -1 tvg-name="|ALB| FILM STINET" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMSTINET.png" group-title="ALB| CINEMA", |ALB| FILM STINET
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3524
+#EXTINF: -1 tvg-name="|ALB| FILM T HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FILMTHD.png" group-title="ALB| CINEMA", |ALB| FILM T HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3523
+#EXTINF: -1 tvg-name="|ALB| TDC" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TDC.png" group-title="ALB| CINEMA", |ALB| TDC
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3522
+#EXTINF: -1 tvg-name="|ALB| EURO FILM" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/EUROFILM.png" group-title="ALB| CINEMA", |ALB| EURO FILM
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3520
+#EXTINF: -1 tvg-name="|ALB| CINESTAR COMEDY" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinestarcomedy.png" group-title="ALB| CINEMA", |ALB| CINESTAR COMEDY
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500964
+#EXTINF: -1 tvg-name="|ALB| CINESTAR FANTASY" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinestarfantasy.png" group-title="ALB| CINEMA", |ALB| CINESTAR FANTASY
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500963
+#EXTINF: -1 tvg-name="|ALB| CINESTAR ACTION" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinestaraction.png" group-title="ALB| CINEMA", |ALB| CINESTAR ACTION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500962
+#EXTINF: -1 tvg-name="|ALB| CINESTAR PRIEMIERE 2 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinestarpremiere2.png" group-title="ALB| CINEMA", |ALB| CINESTAR PRIEMIERE 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500961
+#EXTINF: -1 tvg-name="|ALB| CINESTAR PREMIERE 1 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinestarpremiere1.png" group-title="ALB| CINEMA", |ALB| CINESTAR PREMIERE 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500960
+#EXTINF: -1 tvg-name="|ALB| CINESTAR TV 2 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinestartv2.png" group-title="ALB| CINEMA", |ALB| CINESTAR TV 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500959
+#EXTINF: -1 tvg-name="|ALB| CINESTAR TV 1 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinestartv1hd.png" group-title="ALB| CINEMA", |ALB| CINESTAR TV 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500958
+#EXTINF: -1 tvg-name="|ALB| E 2XL" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E 2XL
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500957
+#EXTINF: -1 tvg-name="|ALB| E OSA MIRE" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E OSA MIRE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500956
+#EXTINF: -1 tvg-name="|ALB| E CA KA SHPIJA" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E CA KA SHPIJA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500955
+#EXTINF: -1 tvg-name="|ALB| E KAFENEJA JONE" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E KAFENEJA JONE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500954
+#EXTINF: -1 tvg-name="|ALB| E STUPCAT" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E STUPCAT
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500953
+#EXTINF: -1 tvg-name="|ALB| E HUMOR HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E HUMOR HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500952
+#EXTINF: -1 tvg-name="|ALB| E CIFTELI HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E CIFTELI HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500951
+#EXTINF: -1 tvg-name="|ALB E POPULLORE HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB E POPULLORE HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500950
+#EXTINF: -1 tvg-name="|ALB| E MUSIC HITS HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E MUSIC HITS HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500949
+#EXTINF: -1 tvg-name="|ALB E GJURMET SHQIPTARE HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB E GJURMET SHQIPTARE HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500948
+#EXTINF: -1 tvg-name="|ALB| E HISTORI" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E HISTORI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500947
+#EXTINF: -1 tvg-name="|ALB| E NATYRA HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E NATYRA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500946
+#EXTINF: -1 tvg-name="|ALB| E SHKENCA HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E SHKENCA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500945
+#EXTINF: -1 tvg-name="|ALB| E FAMILY HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E FAMILY HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500944
+#EXTINF: -1 tvg-name="|ALB| E WESTERN HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E WESTERN HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500943
+#EXTINF: -1 tvg-name="|ALB| E DARK HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E DARK HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500942
+#EXTINF: -1 tvg-name="|ALB| E DRAMA HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E DRAMA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500941
+#EXTINF: -1 tvg-name="|ALB| E ROMANCE HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E ROMANCE HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500940
+#EXTINF: -1 tvg-name="|ALB| E COMEDY HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E COMEDY HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500939
+#EXTINF: -1 tvg-name="|ALB| E SCI-FI HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E SCI-FI HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500938
+#EXTINF: -1 tvg-name="|ALB| E THRILLER HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E THRILLER HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500937
+#EXTINF: -1 tvg-name="|ALB| E ACTION HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E ACTION HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500936
+#EXTINF: -1 tvg-name="|ALB| E PRMIERE 4 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E PRMIERE 4 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500935
+#EXTINF: -1 tvg-name="|ALB| E PREMIERE 3 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E PREMIERE 3 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500934
+#EXTINF: -1 tvg-name="|ALB| E PRMIERE 2 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E PRMIERE 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500933
+#EXTINF: -1 tvg-name="|ALB|E PREMIERE 1 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB|E PREMIERE 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500932
+#EXTINF: -1 tvg-name="|ALB| GALAXY HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/galaxyhd.png" group-title="ALB| CINEMA", |ALB| GALAXY HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500931
+#EXTINF: -1 tvg-name="|ALB| GEO HD" tvg-logo="http://logo.ottc.pro:8080/logos/USADOCUMENTARY/NATGEOHD.png" group-title="ALB| CINEMA", |ALB| GEO HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500930
+#EXTINF: -1 tvg-name="|ALB| SKY SHQIP" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/sky.png" group-title="ALB| CINEMA", |ALB| SKY SHQIP
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500929
+#EXTINF: -1 tvg-name="|ALB| SKY NOVEAL" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/sky.png" group-title="ALB| CINEMA", |ALB| SKY NOVEAL
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500928
+#EXTINF: -1 tvg-name="|ALB| SKY KOMEDI" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/sky.png" group-title="ALB| CINEMA", |ALB| SKY KOMEDI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500927
+#EXTINF: -1 tvg-name="|ALB| SKY DRAME" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/sky.png" group-title="ALB| CINEMA", |ALB| SKY DRAME
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500926
+#EXTINF: -1 tvg-name="|ALB| SKY AKSION" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/sky.png" group-title="ALB| CINEMA", |ALB| SKY AKSION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500925
+#EXTINF: -1 tvg-name="|ALB| SKY MAX" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/sky.png" group-title="ALB| CINEMA", |ALB| SKY MAX
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500924
+#EXTINF: -1 tvg-name="|ALB| SKY 7" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/sky.png" group-title="ALB| CINEMA", |ALB| SKY 7
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500923
+#EXTINF: -1 tvg-name="|ALB| STAR HD" tvg-logo="http://logo.ottc.pro:8080/logos/GREECE/STARHD.png" group-title="ALB| CINEMA", |ALB| STAR HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500922
+#EXTINF: -1 tvg-name="|ALB| T DOC 2" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T DOC 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500921
+#EXTINF: -1 tvg-name="|ALB| T DOC 1" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T DOC 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500920
+#EXTINF: -1 tvg-name="|ALB| T SERIALE" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T SERIALE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500919
+#EXTINF: -1 tvg-name="|ALB| T DRAMA" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T DRAMA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500918
+#EXTINF: -1 tvg-name="|ALB| T COMEDY" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T COMEDY
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500917
+#EXTINF: -1 tvg-name="|ALB| T THRILLER" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T THRILLER
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500916
+#EXTINF: -1 tvg-name="|ALB| T ACTION" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T ACTION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500915
+#EXTINF: -1 tvg-name="|ALB| T PRIME 2" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T PRIME 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500914
+#EXTINF: -1 tvg-name="|ALB| T PRIME 1" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/T.png" group-title="ALB| CINEMA", |ALB| T PRIME 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500913
+#EXTINF: -1 tvg-name="|ALB| CINEMA 2 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinema2hd.png" group-title="ALB| CINEMA", |ALB| CINEMA 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500911
+#EXTINF: -1 tvg-name="|ALB| CINEMA 1 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cinema1hd.png" group-title="ALB| CINEMA", |ALB| CINEMA 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500910
+#EXTINF: -1 tvg-name="|ALB| CINEMAX 2 HD" tvg-logo="http://103.161.34.215:81/logos/BULGARIA/CINEMAX2.png" group-title="ALB| CINEMA", |ALB| CINEMAX 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500909
+#EXTINF: -1 tvg-name="|ALB| FOX CRIME" tvg-logo="http://logo.ottc.pro:8080/logos/EXYUGENERAL/FOXCRIME.png" group-title="ALB| CINEMA", |ALB| FOX CRIME
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500908
+#EXTINF: -1 tvg-name="|ALB| E FILMA24" group-title="ALB| CINEMA", |ALB| E FILMA24
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500907
+#EXTINF: -1 tvg-name="|ALB| CINE 4" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cine4.png" group-title="ALB| CINEMA", |ALB| CINE 4
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500906
+#EXTINF: -1 tvg-name="|ALB| CINE 3" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cine3.png" group-title="ALB| CINEMA", |ALB| CINE 3
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500905
+#EXTINF: -1 tvg-name="|ALB CINE 2" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cine2.png" group-title="ALB| CINEMA", |ALB CINE 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500904
+#EXTINF: -1 tvg-name="|ALB| CINE 1" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/cine1.png" group-title="ALB| CINEMA", |ALB| CINE 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500903
+#EXTINF: -1 tvg-name="|ALB|DIGI GOLD 4" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/digigold.png" group-title="ALB| CINEMA", |ALB|DIGI GOLD 4
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500902
+#EXTINF: -1 tvg-name="|ALB DIGI GOLD 3" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/digigold.png" group-title="ALB| CINEMA", |ALB DIGI GOLD 3
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500901
+#EXTINF: -1 tvg-name="|ALB| DIGI GOLD 2" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/digigold.png" group-title="ALB| CINEMA", |ALB| DIGI GOLD 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500900
+#EXTINF: -1 tvg-name="|ALB| DIGI GOLD 1" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/digigold.png" group-title="ALB| CINEMA", |ALB| DIGI GOLD 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500899
+#EXTINF: -1 tvg-name="|ALB| DIGI GOLD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/digigold.png" group-title="ALB| CINEMA", |ALB| DIGI GOLD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500898
+#EXTINF: -1 tvg-name="|ALB| E XHAMIA E TABAKEVE" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E XHAMIA E TABAKEVE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500897
+#EXTINF: -1 tvg-name="|ALB| TAO TAO HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/taotaohd.png" group-title="ALB| CINEMA", |ALB| TAO TAO HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500896
+#EXTINF: -1 tvg-name="|ALB| E TOM & JERRY" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E TOM & JERRY
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500895
+#EXTINF: -1 tvg-name="|ALB| E KIDS" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/e.png" group-title="ALB| CINEMA", |ALB| E KIDS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/500894
+#EXTINF: -1 tvg-name="|ALB| RTSH FILM HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/RTSHFILMHD.png" group-title="ALB| CINEMA", |ALB| RTSH FILM HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/428587
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR ACTION HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR ACTION HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430499
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR CHUCHU HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR CHUCHU HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430498
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR CINEMA HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR CINEMA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430497
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR HUMOR HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR HUMOR HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430495
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR KOMEDI HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR KOMEDI HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430493
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR MUZIK HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR MUZIK HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430492
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR POPULLORE HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR POPULLORE HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430491
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR QIFTELI HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR QIFTELI HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430490
+#EXTINF: -1 tvg-name="|ALB| WEBSTAR THRILLER HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/WebStar.png" group-title="ALB| CINEMA", |ALB| WEBSTAR THRILLER HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430489
+#EXTINF: -1 tvg-name="|ALB| 8OVA DRAME HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/8OVA.png" group-title="ALB| CINEMA", |ALB| 8OVA DRAME HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430488
+#EXTINF: -1 tvg-name="|ALB| 8OVA FAMILY HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/8OVA.png" group-title="ALB| CINEMA", |ALB| 8OVA FAMILY HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430487
+#EXTINF: -1 tvg-name="|ALB| 8OVA GJURME SHQIPTARE" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/8OVA.png" group-title="ALB| CINEMA", |ALB| 8OVA GJURME SHQIPTARE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430486
+#EXTINF: -1 tvg-name="|ALB| 8OVA GOLD 1 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/8OVA.png" group-title="ALB| CINEMA", |ALB| 8OVA GOLD 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430485
+#EXTINF: -1 tvg-name="|ALB| 8OVA GOLD 2 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/8OVA.png" group-title="ALB| CINEMA", |ALB| 8OVA GOLD 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430484
+#EXTINF: -1 tvg-name="|ALB| 8OVA KOMEDI HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/8OVA.png" group-title="ALB| CINEMA", |ALB| 8OVA KOMEDI HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/430483
+#EXTINF: -1 tvg-name="|ALB| TRING ACTION" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGACTION.png" group-title="ALB| CINEMA", |ALB| TRING ACTION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3506
+#EXTINF: -1 tvg-id="tringfantazi.al" tvg-name="|ALB| TRING FANTASY" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGFANTASY.png" group-title="ALB| CINEMA", |ALB| TRING FANTASY
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3505
+#EXTINF: -1 tvg-name="|ALB| TRING FAMILY HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/TRINGFAMILY.png" group-title="ALB| CINEMA", |ALB| TRING FAMILY HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/305896
+#EXTINF: -1 tvg-name="|ALB| TRING COLLECTION HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/TRINGCOLLECTION.png" group-title="ALB| CINEMA", |ALB| TRING COLLECTION HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/305895
+#EXTINF: -1 tvg-name="|ALB| TRING CLASSIC HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/TRINGCLASSIC.png" group-title="ALB| CINEMA", |ALB| TRING CLASSIC HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/305894
+#EXTINF: -1 tvg-id="tringlife.al" tvg-name="|ALB| TRING LIFE" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGLIFE.png" group-title="ALB| CINEMA", |ALB| TRING LIFE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3504
+#EXTINF: -1 tvg-id="tringcomedy.al" tvg-name="|ALB| TRING COMEDY" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/TRINGCOMEDY.png" group-title="ALB| CINEMA", |ALB| TRING COMEDY
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3503
+#EXTINF: -1 tvg-id="tringsuper.al" tvg-name="|ALB| TRING SUPER" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/TRINGSUPER.png" group-title="ALB| CINEMA", |ALB| TRING SUPER
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3502
+#EXTINF: -1 tvg-name="|ALB| TRING 3" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRING3.png" group-title="ALB| CINEMA", |ALB| TRING 3
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3501
+#EXTINF: -1 tvg-name="|ALB| TRING SMILE" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGSMILE.png" group-title="ALB| CINEMA", |ALB| TRING SMILE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3500
+#EXTINF: -1 tvg-id="tringshqip.al" tvg-name="|ALB| TRING SHQIP" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGSHQIP.png" group-title="ALB| CINEMA", |ALB| TRING SHQIP
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3499
+#EXTINF: -1 tvg-name="|ALB| TRING SERIES" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGJOLLY.png" group-title="ALB| CINEMA", |ALB| TRING SERIES
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3498
+#EXTINF: -1 tvg-id="living.al" tvg-name="|ALB| LIVING HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/LIVINGHD.png" group-title="ALB| CINEMA", |ALB| LIVING HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3497
+#EXTINF: -1 tvg-id="fox.al" tvg-name="|ALB| FOX CHANNEL" tvg-logo="http://logo.ottc.pro:8080/logos/EXYUMAKEDONIJA/FOXCHANNELHD.png" group-title="ALB| CINEMA", |ALB| FOX CHANNEL
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3496
+#EXTINF: -1 tvg-id="foxlife.al" tvg-name="|ALB| FOX LIFE" tvg-logo="http://logo.ottc.pro:8080/logos/PORTUGAL/FOXLIFE.png" group-title="ALB| CINEMA", |ALB| FOX LIFE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3495
+#EXTINF: -1 tvg-name="|ALB| KANAL D DRAMA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KANALDDRAMA.png" group-title="ALB| CINEMA", |ALB| KANAL D DRAMA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3493
+#EXTINF: -1 tvg-name="|ALB| Q ACTION HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/QACTIONHD.png" group-title="ALB| CINEMA", |ALB| Q ACTION HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3488
+#EXTINF: -1 tvg-name="|ALB| Q HUMOR HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/QHUMORHD.png" group-title="ALB| CINEMA", |ALB| Q HUMOR HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3480
+#EXTINF: -1 tvg-name="|ALB| Q STUPCAT HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/QSTUPCAT.png" group-title="ALB| CINEMA", |ALB| Q STUPCAT HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3479
+#EXTINF: -1 tvg-name="|ALB| FILMBOX PREMIUM" tvg-logo="http://103.161.34.215:81/logos/ROMANIA/FILMBOXPREMIUM.png" group-title="ALB| CINEMA", |ALB| FILMBOX PREMIUM
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3454
+#EXTINF: -1 tvg-name="|ALB| FILMBOX ARTHOUSE" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXARTHOUSE.png" group-title="ALB| CINEMA", |ALB| FILMBOX ARTHOUSE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3453
+#EXTINF: -1 tvg-name="|ALB| FILMBOX EXTRA" tvg-logo="http://logo.ottc.pro:8080/logos//POLSKA/FILMBOXEXTRA.png" group-title="ALB| CINEMA", |ALB| FILMBOX EXTRA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3452
+#EXTINF: -1 tvg-name="|ALB| FILMBOX PLUS" tvg-logo="http://logo.ottc.pro:8080/logos/MISSINGEUROPE/filmboxplus.png" group-title="ALB| CINEMA", |ALB| FILMBOX PLUS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3451
+#EXTINF: -1 tvg-name="|ALB| ART KINO 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ARTKINO1.png" group-title="ALB| CINEMA", |ALB| ART KINO 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3450
+#EXTINF: -1 tvg-name="|ALB| ART KINO 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ARTKINO2.png" group-title="ALB| CINEMA", |ALB| ART KINO 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3449
+#EXTINF: -1 tvg-name="|ALB| ART KINO 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ARTKINO3.png" group-title="ALB| CINEMA", |ALB| ART KINO 3 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3448
+#EXTINF: -1 tvg-name="|ALB| ART PRIME HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/A/ARTPRIM.png" group-title="ALB| CINEMA", |ALB| ART PRIME HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3446
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES NEW YEAR" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES NEW YEAR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/495333
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES CHRISTMAS 2020" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES CHRISTMAS 2020
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/493921
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES CHRISTMAS 2021" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES CHRISTMAS 2021
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/493922
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES CHRISTMAS 2022" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES CHRISTMAS 2022
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/493920
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES NETFLIX 1" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES NETFLIX 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294661
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES NETFLIX 2" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES NETFLIX 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/246053
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES AKTION" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES AKTION
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294667
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES ANIMACIONI" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES ANIMACIONI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294663
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES DOKUMENTAR" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES DOKUMENTAR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294666
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES DRAMË" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES DRAMË
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294665
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES FAMILJAR" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES FAMILJAR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294664
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES KOMEDIA" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES KOMEDIA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294662
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES KRIMI" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES KRIMI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294656
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES KRISHTLINDJE" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES KRISHTLINDJE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294657
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES MARVEL" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES MARVEL
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/303918
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES PERENDIMORE" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES PERENDIMORE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294659
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES ROMANCE" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES ROMANCE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294660
+#EXTINF: -1 tvg-name="|ALB| POP MOVIES TMERR" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| CINEMA", |ALB| POP MOVIES TMERR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/294658
+#EXTINF: -1 tvg-id="expshkence.al" tvg-name="|ALB| EXPLORER SHKENCE" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/EXPLORERSHKENCE.png" group-title="ALB| DOCUMENTARY", |ALB| EXPLORER SHKENCE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3439
+#EXTINF: -1 tvg-id="expnatyra.al" tvg-name="|ALB| EXPLORER NATYRA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/EXPLORERNATYRA.png" group-title="ALB| DOCUMENTARY", |ALB| EXPLORER NATYRA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3438
+#EXTINF: -1 tvg-id="exphistori.al" tvg-name="|ALB| EXPLORER HISTORI" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/EXPLORERHISTORI.png" group-title="ALB| DOCUMENTARY", |ALB| EXPLORER HISTORI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3437
+#EXTINF: -1 tvg-name="|ALB| TRING HISTORY" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGHISTORY.png" group-title="ALB| DOCUMENTARY", |ALB| TRING HISTORY
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3436
+#EXTINF: -1 tvg-id="tringplanet.al" tvg-name="|ALB| TRING PLANET" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGPLANET.png" group-title="ALB| DOCUMENTARY", |ALB| TRING PLANET
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3435
+#EXTINF: -1 tvg-id="tringworld.al" tvg-name="|ALB| TRING WORLD" tvg-logo="http://logo.ottc.pro:8080/logos/MISSINGEUROPE/tringworld.png" group-title="ALB| DOCUMENTARY", |ALB| TRING WORLD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3434
+#EXTINF: -1 tvg-name="|ALB| TRING MUSE" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/TringMuse.png" group-title="ALB| DOCUMENTARY", |ALB| TRING MUSE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/452538
+#EXTINF: -1 tvg-name="|ALB| SKY PLANET" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SKYPLANET.png" group-title="ALB| DOCUMENTARY", |ALB| SKY PLANET
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3430
+#EXTINF: -1 tvg-name="|ALB| DISCOVERY SCIENCE" tvg-logo="http://logo.ottc.pro:8080/logos/USADOCUMENTARY/DISCOVERYSCIENCE.png" group-title="ALB| DOCUMENTARY", |ALB| DISCOVERY SCIENCE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3427
+#EXTINF: -1 tvg-name="|ALB| DISCOVERY CHANNEL" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/DISCOVERY.png" group-title="ALB| DOCUMENTARY", |ALB| DISCOVERY CHANNEL
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3426
+#EXTINF: -1 tvg-id="nationalgeographic.al" tvg-name="|ALB| NATIONAL GEOGRAPHIC" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/NATGEO.png" group-title="ALB| DOCUMENTARY", |ALB| NATIONAL GEOGRAPHIC
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3425
+#EXTINF: -1 tvg-name="|ALB| 24 KITCHEN" tvg-logo="http://logo.ottc.pro:8080/logos/EXYUSLOVENIJA/24KITCHEN.png" group-title="ALB| DOCUMENTARY", |ALB| 24 KITCHEN
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3422
+#EXTINF: -1 tvg-name="|ALB| POP BOTA E GATIMIT" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| DOCUMENTARY", |ALB| POP BOTA E GATIMIT
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/293712
+#EXTINF: -1 tvg-name="|AL| ART DOKU 1 FHD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/ARTDOKU.png" group-title="ALB| DOCUMENTARY", |AL| ART DOKU 1 FHD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/424824
+#EXTINF: -1 tvg-name="|AL| ART DOKU 2 FHD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/ARTDOKU.png" group-title="ALB| DOCUMENTARY", |AL| ART DOKU 2 FHD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/424823
+#EXTINF: -1 tvg-name="|ALB| MY MUSIC HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/MYMUSICHD.png" group-title="ALB| MUSIC", |ALB| MY MUSIC HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3419
+#EXTINF: -1 tvg-id="rtv21popullore.al" tvg-name="|ALB| RTV21 POPULLORE" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTV21POPULLORE.png" group-title="ALB| MUSIC", |ALB| RTV21 POPULLORE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3412
+#EXTINF: -1 tvg-name="|ALB| SYRI BLU MUSIC HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SYRIBLUMUSIC.png" group-title="ALB| MUSIC", |ALB| SYRI BLU MUSIC HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3410
+#EXTINF: -1 tvg-name="|ALB| TV OPOJA HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVOPOJA.png" group-title="ALB| MUSIC", |ALB| TV OPOJA HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3409
+#EXTINF: -1 tvg-name="|ALB| ZICO TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ZICOTV.png" group-title="ALB| MUSIC", |ALB| ZICO TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3408
+#EXTINF: -1 tvg-name="|ALB| A-MOL TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/AMOLTV.png" group-title="ALB| MUSIC", |ALB| A-MOL TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3407
+#EXTINF: -1 tvg-name="|ALB| TOP ESTRADA MUSIC HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TOPSTRADAMUSIC.png" group-title="ALB| MUSIC", |ALB| TOP ESTRADA MUSIC HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3405
+#EXTINF: -1 tvg-name="|ALB| DIELLI" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/A/DIELLI.png" group-title="ALB| MUSIC", |ALB| DIELLI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/503752
+#EXTINF: -1 tvg-name="|ALB| ALB" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ALB.png" group-title="ALB| MUSIC", |ALB| ALB
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3404
+#EXTINF: -1 tvg-name="|ALB| TV ZJARR" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TVZJARR.png" group-title="ALB| MUSIC", |ALB| TV ZJARR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3403
+#EXTINF: -1 tvg-name="|ALB| TURBO TV" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TURBOTV.png" group-title="ALB| MUSIC", |ALB| TURBO TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3402
+#EXTINF: -1 tvg-name="|ALB| ELRODI" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ELRODI.png" group-title="ALB| MUSIC", |ALB| ELRODI
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3398
+#EXTINF: -1 tvg-name="|ALB| FOLK" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FOLK.png" group-title="ALB| MUSIC", |ALB| FOLK
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3399
+#EXTINF: -1 tvg-name="|ALB| FOLK+" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/FOLK.png" group-title="ALB| MUSIC", |ALB| FOLK+
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/42422
+#EXTINF: -1 tvg-name="|ALB| RTV ILIRIDA" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/RTVILIRIDA.png" group-title="ALB| MUSIC", |ALB| RTV ILIRIDA
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/291251
+#EXTINF: -1 tvg-name="|AL| USKANA TV HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/USKANATV.png" group-title="ALB| MUSIC", |AL| USKANA TV HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/423856
+#EXTINF: -1 tvg-name="|ALB| POP MUSIC CHILL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| MUSIC", |ALB| POP MUSIC CHILL
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/302145
+#EXTINF: -1 tvg-name="|ALB| POP MUSIC DANCE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| MUSIC", |ALB| POP MUSIC DANCE
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/302149
+#EXTINF: -1 tvg-name="|ALB| POP MUSIC HITS TV" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| MUSIC", |ALB| POP MUSIC HITS TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/243353
+#EXTINF: -1 tvg-name="|ALB| POP MUSIC MIX TV" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| MUSIC", |ALB| POP MUSIC MIX TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/244762
+#EXTINF: -1 tvg-name="|ALB| POP MUSIC POPULAR" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| MUSIC", |ALB| POP MUSIC POPULAR
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/302143
+#EXTINF: -1 tvg-name="|ALB| POP MUSIC RAP TV" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| MUSIC", |ALB| POP MUSIC RAP TV
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/243354
+#EXTINF: -1 tvg-name="|ALB| POP MUSIC REMIX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ALB| MUSIC", |ALB| POP MUSIC REMIX
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/302144
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORT1.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3396
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORT1.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 1 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3395
+#EXTINF: -1 tvg-id="supersport2.al" tvg-name="|ALB| SUPER SPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORT2.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3394
+#EXTINF: -1 tvg-id="supersport3.al" tvg-name="|ALB| SUPER SPORT 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORT3.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 3 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3392
+#EXTINF: -1 tvg-id="supersport3.al" tvg-name="|ALB| SUPER SPORT 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORT3.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 3 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3391
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT 4 4K" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORT4.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 4 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/494878
+#EXTINF: -1 tvg-id="supersport4.al" tvg-name="|ALB| SUPER SPORT 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORT4.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 4 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3390
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT 5 4K" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/SUPERSPORT5hd1.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 5 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/494881
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT 5 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/SUPERSPORT5hd1.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 5 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/494882
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT 6 4K" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/SUPERSPORT6HD.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 6 4K
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/494879
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT 6 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/SUPERSPORT6HD.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 6 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/494880
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT 7 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORT7.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT 7 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3384
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT KOSOVO 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORTKOSOVO1.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT KOSOVO 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/236217
+#EXTINF: -1 tvg-name="|ALB| SUPER SPORT KOSOVO 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/SUPERSPORTKOSOVO2.png" group-title="ALB| SPORTS", |ALB| SUPER SPORT KOSOVO 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/236216
+#EXTINF: -1 tvg-id="tringsportnews.al" tvg-name="|ALB| TRING SPORT NEWS" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGSPORTNEWS.png" group-title="ALB| SPORTS", |ALB| TRING SPORT NEWS
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3381
+#EXTINF: -1 tvg-id="tringsportnews.al" tvg-name="|ALB| TRING SPORT NEWS HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGSPORTNEWS.png" group-title="ALB| SPORTS", |ALB| TRING SPORT NEWS HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3380
+#EXTINF: -1 tvg-id="tringsport1.al" tvg-name="|ALB| TRING SPORT 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGSPORT1.png" group-title="ALB| SPORTS", |ALB| TRING SPORT 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3379
+#EXTINF: -1 tvg-id="tringsport2.al" tvg-name="|ALB| TRING SPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGSPORT2.png" group-title="ALB| SPORTS", |ALB| TRING SPORT 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3378
+#EXTINF: -1 tvg-id="tringsport3.al" tvg-name="|ALB| TRING SPORT 3 HD |ONLY MATCH TIME|" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGSPORT3.png" group-title="ALB| SPORTS", |ALB| TRING SPORT 3 HD |ONLY MATCH TIME|
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3377
+#EXTINF: -1 tvg-id="tringsport4.al" tvg-name="|ALB| TRING SPORT 4 HD |ONLY MATCH TIME|" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/TRINGSPORT4.png" group-title="ALB| SPORTS", |ALB| TRING SPORT 4 HD |ONLY MATCH TIME|
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3376
+#EXTINF: -1 tvg-name="|ALB| K SPORT 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KSPORT1.png" group-title="ALB| SPORTS", |ALB| K SPORT 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3374
+#EXTINF: -1 tvg-name="|ALB| K SPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KSPORT2.png" group-title="ALB| SPORTS", |ALB| K SPORT 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3373
+#EXTINF: -1 tvg-name="|ALB| K SPORT 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KSPORT3.png" group-title="ALB| SPORTS", |ALB| K SPORT 3 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3372
+#EXTINF: -1 tvg-name="|ALB| K SPORT 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KSPORT4.png" group-title="ALB| SPORTS", |ALB| K SPORT 4 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3371
+#EXTINF: -1 tvg-name="|ALB| K SPORT 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/KSPORT5.png" group-title="ALB| SPORTS", |ALB| K SPORT 5 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3370
+#EXTINF: -1 tvg-name="|ALB| ART SPORT 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ARTSPORT1.png" group-title="ALB| SPORTS", |ALB| ART SPORT 1 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3368
+#EXTINF: -1 tvg-name="|ALB| ART SPORT 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ARTSPORT2.png" group-title="ALB| SPORTS", |ALB| ART SPORT 2 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3367
+#EXTINF: -1 tvg-name="|ALB| ART SPORT 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/ALBANIA/ARTSPORT3.png" group-title="ALB| SPORTS", |ALB| ART SPORT 3 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/3366
+#EXTINF: -1 tvg-name="|ALB| ART SPORT 5 HD" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/ARTSPORT5HD.png" group-title="ALB| SPORTS", |ALB| ART SPORT 5 HD
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/314241
+#EXTINF: -1 tvg-name="|ALB| OVER SPORT 1" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/OVERSPORT.png" group-title="ALB| SPORTS", |ALB| OVER SPORT 1
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/324763
+#EXTINF: -1 tvg-name="|ALB| OVER SPORT 2" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/OVERSPORT.png" group-title="ALB| SPORTS", |ALB| OVER SPORT 2
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/324764
+#EXTINF: -1 tvg-name="|ALB| OVER SPORT 3" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/OVERSPORT.png" group-title="ALB| SPORTS", |ALB| OVER SPORT 3
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/324765
+#EXTINF: -1 tvg-name="|ALB| OVER SPORT 4" tvg-logo="http://103.161.34.240:81/logos/ALBANIA/OVERSPORT.png" group-title="ALB| SPORTS", |ALB| OVER SPORT 4
+http://albtv.ottc.pro:80/ildiiptv/KGjyEcFVaZBuiJl/324766
